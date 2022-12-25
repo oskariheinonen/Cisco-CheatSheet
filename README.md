@@ -25,4 +25,19 @@ Ohjelma on jaettu konfigurointien mukaan 13 eri osioon:
 Ohjelma on toteutettu Python-ohjelmointikielellä, joten sen suorittamiseen vaaditaan Python-ohjelman asennus. Voit ottaa ohjelman käyttöön esimerkiksi seuraavia ohjeita noudattaen:
 
 1. Lataa Python. Voit ladata käyttöjärjestelmällesi sopivan version osoitteesta https://www.python.org/downloads/ tai laitteesi sovelluskaupasta.
-2. Kopioi ohjelman koodi itsellesi valitsemalla GitHub-repositoriostani ohjelma 'CiscoCheatSheet_OH.py' --> klikkaa painiketta 'Raw' --> Maalaa koodi esimerkiksi painamalla ctrl + A --> kopioi --> liitä esimerkiksi muistioon/notepadiin --> tallenna tiedosto .py-tiedostona eli esimerkiksi 'tiedostonimi.py'.
+2. Kopioi ohjelman koodi itsellesi valitsemalla GitHub-repositoriostani ohjelma 'CiscoCheatSheet_OH.py' --> Klikkaa painiketta 'Raw' --> Maalaa koodi esimerkiksi painamalla CTRL + A --> Kopioi koodi --> Liitä koodi esimerkiksi muistioon/notepadiin --> Tallenna tiedosto laitteellesi .py-tiedostona eli esimerkiksi 'tiedostonimi.py'.
+3. Hae resurssienhallinnasta tallentamasi .py-tiedosto --> Klikkaa tiedostoa hiiren oikealla painikkeella --> 'Kopioi polkuna'.
+4. Siirry laitteesi komentokehotteeseen, esimerkiksi kirjoittamalla hakuun 'cmd' --> Kirjoita komentokehotteeseen 'pip install pyfiglet', joka asentaa ohjelmassa käytettävän lisämoduulin --> Kun lisämoduuli on asennettu, kirjoita komentokehotteeseen 'python ', liitä sen perään kopioimasi tiedostopolku ja paina Enter.
+5. Ohjelma on valmis käytettäväksi.
+
+## Huomioita
+
+Ohjelmassa liikutaan eri osioiden välillä kirjoittamalla haluamaansa vaihtoehtoa vastaava numero komentokehotteeseen.
+
+Ohjelmassa esitetyt konfigurointitavat ovat vain yksinkertaisia esimerkkejä, eivätkä ne välttämättä ole ainoita oikeita tapoja konfiguroida. Soveltavammissa tilanteissa komentoihin löydät apua laitteiden komentorivillä kysymysmerkin (?) avulla.
+
+Komennot ovat esitetty aaltoviivojen sisällä muodossa ~komento~.
+
+## Tekijä
+
+@oskariheinonen
