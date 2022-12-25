@@ -36,7 +36,7 @@ Ohjelmassa liikutaan eri osioiden välillä kirjoittamalla haluamaansa vaihtoeht
 
 Ohjelmassa esitetyt konfigurointitavat ovat vain yksinkertaisia esimerkkejä, eivätkä ne välttämättä ole ainoita oikeita tapoja konfiguroida. Soveltavammissa tilanteissa komentoihin löydät apua laitteiden komentorivillä kysymysmerkin (?) avulla.
 
-Komennot ovat esitetty aaltoviivojen sisällä muodossa ~komento~.
+Komennot ovat esitetty aaltoviivojen sisällä.
 
 ## Tekijä
 
